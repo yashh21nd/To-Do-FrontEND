@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "src/index.tsx",
+  "main": "src/main.tsx",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -18,12 +18,8 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    ...
-  }
   },
   "browserslist": [
     ">0.2%",
