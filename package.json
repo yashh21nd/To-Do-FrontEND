@@ -20,6 +20,10 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    ...
+  }
   },
   "browserslist": [
     ">0.2%",
